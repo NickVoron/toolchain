@@ -1,0 +1,10 @@
+<<<<<<< working copy
+<<<<<<< working copy
+/Users/nikolayvoronetskiy/sandbox/Stable/Sources/Libraries/stream/stream/stream.h:30:4: error: static_assert failed "type must be trivially_copyable"
+=======
+/Users/nikolayvoronetskiy/sandbox/Stable/Sources/Libraries/resourceQML/resourceQML.h:5:10: fatal error: 'QtQml/QQmlApplicationEngine' file not found
+>>>>>>> destination
+=======
+/Users/nikolayvoronetskiy/sandbox/Stable/Sources/Libraries/valueInterfaceComponents/valueInterface.cpp:19:43: error: cannot initialize a parameter of type 'std::size_t' (aka 'unsigned long') with an rvalue of type 'std::optional<std::size_t> *' (aka 'std::experimental::fundamentals_v1::optional<unsigned long> *')
+/Users/nikolayvoronetskiy/sandbox/Stable/Sources/Libraries/stream/stream/stream.h:30:4: error: static_assert failed "type must be trivially_copyable"
+>>>>>>> merge rev

@@ -1,0 +1,5 @@
+third_party\fbxsdk
+third_party\webrtc
+third_party\Qt
+third_party\Qt_
+Tools\Sublime

@@ -1,0 +1,12 @@
+Stable\Sources\Libraries\rectAtlasBuilder\rectPlacement.cpp
+Stable\Sources\Libraries\rectAtlasBuilder\rectPlacement.h
+Stable\Sources\Libraries\imageFiltering\edtaa3func.h
+Stable\Sources\Libraries\imageFiltering\edtaa3func.cpp
+Stable\Sources\Libraries\stuff\atof.h
+Stable\Sources\Libraries\stuff\enforce.h
+Stable\Sources\Libraries\descParser\parser
+Stable\Sources\Libraries\tristripper
+Stable\Sources\Libraries\compression
+Stable\Sources\Libraries\curl
+toolchain\ndk-bundle
+toolchain\qt
